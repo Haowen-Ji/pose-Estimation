@@ -48,7 +48,7 @@ dataclasses-0.6 fire-0.5.0 flatbuffers-22.12.6 keras-2.8.0 llvmlite-0.36.0 neura
 ### Expected Result
 
 The `Classifier application.ipynb` would produce resulting videos in `.avi` format. The resulting videos contain  the labels of the subject poses. As shown below:
-
-![image-20221216005820619](https://github.com/Haowen-Ji/pose-Estimation/blob/master/main/test_out/cross-leg/4835_flip.jpg?raw=true = 250x)
+<img src="https://github.com/Haowen-Ji/pose-Estimation/blob/master/main/test_out/cross-leg/4835_flip.jpg?raw=true" alt="drawing" width="200"/>
+![image-20221216005820619](https://github.com/Haowen-Ji/pose-Estimation/blob/master/main/test_out/cross-leg/4835_flip.jpg?raw=true)
 
 ![image-20221216005824629](https://github.com/Haowen-Ji/pose-Estimation/blob/master/main/test_out/normal/3083_flip.jpg?raw=true)
